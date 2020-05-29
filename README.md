@@ -1,1 +1,1 @@
-Main code is in ant.py
+Main code is in ants.py
